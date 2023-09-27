@@ -1,0 +1,16 @@
+2023-09-26 02:37:17.496 [info] Extension host with pid 19699 started
+2023-09-26 02:37:17.589 [info] Lock '/root/.vscode-server/data/User/workspaceStorage/710b6932029c4e68135119ac5c91013c/vscode.lock': Lock acquired.
+2023-09-26 02:37:17.729 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2023-09-26 02:37:17.737 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2023-09-26 02:37:18.199 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-09-26 02:37:18.628 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2023-09-26 02:37:19.015 [info] Eager extensions activated
+2023-09-26 02:37:19.015 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-09-26 02:37:19.016 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-09-26 02:37:19.322 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2023-09-26 02:37:19.322 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-09-26 03:03:41.633 [error] Error: read ECONNRESET
+	at TLSWrap.onStreamRead (node:internal/stream_base_commons:217:20)
+2023-09-26 04:02:02.433 [info] Extension host terminating: received terminate message from renderer
+2023-09-26 04:02:02.436 [info] Lock '/root/.vscode-server/data/User/workspaceStorage/710b6932029c4e68135119ac5c91013c/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-09-26 04:02:07.479 [info] Extension host with pid 19699 exiting with code 0

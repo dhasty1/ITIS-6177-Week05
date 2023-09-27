@@ -1,0 +1,71 @@
+2023-09-26 02:25:24.734 [info] 
+
+
+
+
+2023-09-26 02:25:24.734 [info] Extension host agent started.
+2023-09-26 02:25:24.761 [info] Started initializing default profile extensions in extensions installation folder. file:///root/.vscode-server/extensions
+2023-09-26 02:25:24.811 [info] Completed initializing default profile extensions in extensions installation folder. file:///root/.vscode-server/extensions
+2023-09-26 02:25:24.882 [info] [127.0.0.1][c761f299][ManagementConnection] New connection established.
+2023-09-26 02:25:24.967 [info] [127.0.0.1][895bef4b][ExtensionHostConnection] New connection established.
+2023-09-26 02:25:25.761 [info] [127.0.0.1][895bef4b][ExtensionHostConnection] <18981> Launched Extension Host Process.
+2023-09-26 02:30:24.680 [info] New EH opened, aborting shutdown
+2023-09-26 02:37:08.876 [info] [127.0.0.1][c761f299][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-09-26 02:37:08.877 [error] Error: Throttler is disposed
+    at c.queue (/root/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/server/node/server.main.js:70:13632)
+    at /root/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/server/node/server.main.js:70:15216
+    at /root/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/server/node/server.main.js:70:14852
+2023-09-26 02:37:08.879 [error] Error: Throttler is disposed
+    at c.queue (/root/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/server/node/server.main.js:70:13632)
+    at /root/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/server/node/server.main.js:70:15216
+    at /root/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/server/node/server.main.js:70:14852
+2023-09-26 02:37:13.900 [info] [127.0.0.1][895bef4b][ExtensionHostConnection] <18981> Extension Host Process exited with code: 0, signal: null.
+2023-09-26 02:37:13.900 [info] Last EH closed, waiting before shutting down
+2023-09-26 02:37:15.787 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2023-09-26 02:37:15.787 [info] Cancelling previous shutdown timeout
+2023-09-26 02:37:16.017 [info] [127.0.0.1][e73356f3][ManagementConnection] New connection established.
+2023-09-26 02:37:16.254 [info] [127.0.0.1][81e7ad0d][ExtensionHostConnection] New connection established.
+2023-09-26 02:37:16.318 [info] [127.0.0.1][81e7ad0d][ExtensionHostConnection] <19699> Launched Extension Host Process.
+2023-09-26 02:42:15.789 [info] New EH opened, aborting shutdown
+2023-09-26 03:04:12.704 [warning] No ptyHost heartbeat after 6 seconds
+2023-09-26 03:04:39.791 [warning] No ptyHost heartbeat after 6 seconds
+2023-09-26 03:04:39.896 [info] [127.0.0.1][81e7ad0d][ExtensionHostConnection] The client has reconnected.
+2023-09-26 03:04:50.818 [info] [127.0.0.1][e73356f3][ManagementConnection] The client has reconnected.
+2023-09-26 03:04:50.902 [info] [127.0.0.1][81e7ad0d][ExtensionHostConnection] The client has reconnected.
+2023-09-26 03:07:02.801 [warning] No ptyHost heartbeat after 6 seconds
+2023-09-26 03:07:11.668 [warning] No ptyHost heartbeat after 6 seconds
+2023-09-26 03:23:02.677 [warning] No ptyHost heartbeat after 6 seconds
+2023-09-26 03:23:33.392 [info] [127.0.0.1][81e7ad0d][ExtensionHostConnection] The client has reconnected.
+2023-09-26 03:31:29.059 [warning] No ptyHost heartbeat after 6 seconds
+2023-09-26 03:31:52.908 [info] [127.0.0.1][81e7ad0d][ExtensionHostConnection] The client has reconnected.
+2023-09-26 04:02:02.424 [info] [127.0.0.1][e73356f3][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-09-26 04:02:02.425 [error] Error: Throttler is disposed
+    at c.queue (/root/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/server/node/server.main.js:70:13632)
+    at /root/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/server/node/server.main.js:70:15216
+    at /root/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-09-26 04:02:02.428 [error] Error: Throttler is disposed
+    at c.queue (/root/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/server/node/server.main.js:70:13632)
+    at /root/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/server/node/server.main.js:70:15216
+    at /root/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/server/node/server.main.js:70:14852
+2023-09-26 04:02:02.428 [error] Error: Throttler is disposed
+    at c.queue (/root/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/server/node/server.main.js:70:13632)
+    at /root/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/server/node/server.main.js:70:15216
+    at /root/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/server/node/server.main.js:70:14852
+2023-09-26 04:02:02.429 [error] Error: Throttler is disposed
+    at c.queue (/root/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/server/node/server.main.js:70:13632)
+    at /root/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/server/node/server.main.js:70:15216
+    at /root/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/server/node/server.main.js:70:14852
+2023-09-26 04:02:02.429 [error] Error: Throttler is disposed
+    at c.queue (/root/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/server/node/server.main.js:70:13632)
+    at /root/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/server/node/server.main.js:70:15216
+    at /root/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/server/node/server.main.js:70:14852
+2023-09-26 04:02:02.429 [error] Error: Throttler is disposed
+    at c.queue (/root/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/server/node/server.main.js:70:13632)
+    at /root/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/server/node/server.main.js:70:15216
+    at /root/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/server/node/server.main.js:70:14852
+2023-09-26 04:02:07.495 [info] [127.0.0.1][81e7ad0d][ExtensionHostConnection] <19699> Extension Host Process exited with code: 0, signal: null.
+2023-09-26 04:02:07.495 [info] Last EH closed, waiting before shutting down
+2023-09-26 04:07:07.497 [info] Last EH closed, shutting down

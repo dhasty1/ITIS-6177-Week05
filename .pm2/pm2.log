@@ -1,0 +1,103 @@
+2023-09-24T15:04:59: PM2 log: ===============================================================================
+2023-09-24T15:04:59: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2023-09-24T15:04:59: PM2 log: Time                 : Sun Sep 24 2023 15:04:59 GMT+0000 (Coordinated Universal Time)
+2023-09-24T15:04:59: PM2 log: PM2 version          : 5.3.0
+2023-09-24T15:04:59: PM2 log: Node.js version      : 14.21.3
+2023-09-24T15:04:59: PM2 log: Current arch         : x64
+2023-09-24T15:04:59: PM2 log: PM2 home             : /root/.pm2
+2023-09-24T15:04:59: PM2 log: PM2 PID file         : /root/.pm2/pm2.pid
+2023-09-24T15:04:59: PM2 log: RPC socket file      : /root/.pm2/rpc.sock
+2023-09-24T15:04:59: PM2 log: BUS socket file      : /root/.pm2/pub.sock
+2023-09-24T15:04:59: PM2 log: Application log path : /root/.pm2/logs
+2023-09-24T15:04:59: PM2 log: Worker Interval      : 30000
+2023-09-24T15:04:59: PM2 log: Process dump file    : /root/.pm2/dump.pm2
+2023-09-24T15:04:59: PM2 log: Concurrent actions   : 2
+2023-09-24T15:04:59: PM2 log: SIGTERM timeout      : 1600
+2023-09-24T15:04:59: PM2 log: ===============================================================================
+2023-09-24T15:04:59: PM2 log: App [server:0] starting in -fork mode-
+2023-09-24T15:04:59: PM2 log: App [server:0] online
+2023-09-24T15:34:00: PM2 log: Stopping app:server id:0
+2023-09-24T15:34:00: PM2 log: App [server:0] exited with code [0] via signal [SIGINT]
+2023-09-24T15:34:00: PM2 log: pid=2656 msg=process killed
+2023-09-24T15:41:56: PM2 log: App [server:0] starting in -fork mode-
+2023-09-24T15:41:56: PM2 log: App [server:0] online
+2023-09-26T03:15:15: PM2 log: Stopping app:server id:0
+2023-09-26T03:15:15: PM2 log: App [server:0] exited with code [0] via signal [SIGINT]
+2023-09-26T03:15:15: PM2 log: pid=3150 msg=process killed
+2023-09-26T04:01:52: PM2 log: App [server:0] starting in -fork mode-
+2023-09-26T04:01:52: PM2 log: App [server:0] online
+2023-09-27T05:06:21: PM2 log: Stopping app:server id:0
+2023-09-27T05:06:21: PM2 log: App [server:0] exited with code [0] via signal [SIGINT]
+2023-09-27T05:06:21: PM2 log: pid=22708 msg=process killed
+2023-09-27T05:06:21: PM2 log: App [server:0] starting in -fork mode-
+2023-09-27T05:06:21: PM2 log: App [server:0] online
+2023-09-27T05:07:08: PM2 log: Stopping app:server id:0
+2023-09-27T05:07:08: PM2 log: App [server:0] exited with code [0] via signal [SIGINT]
+2023-09-27T05:07:08: PM2 log: pid=5547 msg=process killed
+2023-09-27T05:07:08: PM2 log: App [server:0] starting in -fork mode-
+2023-09-27T05:07:08: PM2 log: App [server:0] online
+2023-09-27T05:15:46: PM2 log: Stopping app:server id:0
+2023-09-27T05:15:46: PM2 log: App [server:0] exited with code [0] via signal [SIGINT]
+2023-09-27T05:15:46: PM2 log: pid=5629 msg=process killed
+2023-09-27T05:15:46: PM2 log: App [server:0] starting in -fork mode-
+2023-09-27T05:15:46: PM2 log: App [server:0] online
+2023-09-27T05:17:37: PM2 log: Stopping app:server id:0
+2023-09-27T05:17:37: PM2 log: App [server:0] exited with code [0] via signal [SIGINT]
+2023-09-27T05:17:37: PM2 log: pid=5717 msg=process killed
+2023-09-27T05:17:37: PM2 log: App [server:0] starting in -fork mode-
+2023-09-27T05:17:37: PM2 log: App [server:0] online
+2023-09-27T05:19:43: PM2 log: Stopping app:server id:0
+2023-09-27T05:19:43: PM2 log: App [server:0] exited with code [0] via signal [SIGINT]
+2023-09-27T05:19:43: PM2 log: pid=5768 msg=process killed
+2023-09-27T05:19:43: PM2 log: App [server:0] starting in -fork mode-
+2023-09-27T05:19:43: PM2 log: App [server:0] online
+2023-09-27T05:21:10: PM2 log: Stopping app:server id:0
+2023-09-27T05:21:10: PM2 log: App [server:0] exited with code [0] via signal [SIGINT]
+2023-09-27T05:21:10: PM2 log: pid=5815 msg=process killed
+2023-09-27T05:21:17: PM2 log: App [server:0] starting in -fork mode-
+2023-09-27T05:21:17: PM2 log: App [server:0] online
+2023-09-27T05:22:04: PM2 log: Stopping app:server id:0
+2023-09-27T05:22:04: PM2 log: App [server:0] exited with code [0] via signal [SIGINT]
+2023-09-27T05:22:04: PM2 log: pid=5877 msg=process killed
+2023-09-27T05:22:04: PM2 log: App [server:0] starting in -fork mode-
+2023-09-27T05:22:04: PM2 log: App [server:0] online
+2023-09-27T05:23:19: PM2 log: Stopping app:server id:0
+2023-09-27T05:23:19: PM2 log: App [server:0] exited with code [0] via signal [SIGINT]
+2023-09-27T05:23:19: PM2 log: pid=5921 msg=process killed
+2023-09-27T05:23:19: PM2 log: App [server:0] starting in -fork mode-
+2023-09-27T05:23:19: PM2 log: App [server:0] online
+2023-09-27T05:24:14: PM2 log: Stopping app:server id:0
+2023-09-27T05:24:14: PM2 log: App [server:0] exited with code [0] via signal [SIGINT]
+2023-09-27T05:24:15: PM2 log: pid=5979 msg=process killed
+2023-09-27T05:24:15: PM2 log: App [server:0] starting in -fork mode-
+2023-09-27T05:24:15: PM2 log: App [server:0] online
+2023-09-27T05:25:33: PM2 log: Stopping app:server id:0
+2023-09-27T05:25:33: PM2 log: App [server:0] exited with code [0] via signal [SIGINT]
+2023-09-27T05:25:33: PM2 log: pid=6026 msg=process killed
+2023-09-27T05:25:33: PM2 log: App [server:0] starting in -fork mode-
+2023-09-27T05:25:33: PM2 log: App [server:0] online
+2023-09-27T05:26:26: PM2 log: Stopping app:server id:0
+2023-09-27T05:26:26: PM2 log: App [server:0] exited with code [0] via signal [SIGINT]
+2023-09-27T05:26:26: PM2 log: pid=6074 msg=process killed
+2023-09-27T05:26:26: PM2 log: App [server:0] starting in -fork mode-
+2023-09-27T05:26:26: PM2 log: App [server:0] online
+2023-09-27T05:27:15: PM2 log: Stopping app:server id:0
+2023-09-27T05:27:15: PM2 log: App [server:0] exited with code [0] via signal [SIGINT]
+2023-09-27T05:27:15: PM2 log: pid=6120 msg=process killed
+2023-09-27T05:27:15: PM2 log: App [server:0] starting in -fork mode-
+2023-09-27T05:27:15: PM2 log: App [server:0] online
+2023-09-27T05:27:36: PM2 log: Stopping app:server id:0
+2023-09-27T05:27:36: PM2 log: App [server:0] exited with code [0] via signal [SIGINT]
+2023-09-27T05:27:36: PM2 log: pid=6204 msg=process killed
+2023-09-27T05:27:36: PM2 log: App [server:0] starting in -fork mode-
+2023-09-27T05:27:36: PM2 log: App [server:0] online
+2023-09-27T05:27:50: PM2 log: Stopping app:server id:0
+2023-09-27T05:27:50: PM2 log: App [server:0] exited with code [0] via signal [SIGINT]
+2023-09-27T05:27:50: PM2 log: pid=6252 msg=process killed
+2023-09-27T05:27:50: PM2 log: App [server:0] starting in -fork mode-
+2023-09-27T05:27:50: PM2 log: App [server:0] online
+2023-09-27T05:30:19: PM2 log: Stopping app:server id:0
+2023-09-27T05:30:20: PM2 log: App [server:0] exited with code [0] via signal [SIGINT]
+2023-09-27T05:30:20: PM2 log: pid=6300 msg=process killed
+2023-09-27T05:30:20: PM2 log: App [server:0] starting in -fork mode-
+2023-09-27T05:30:20: PM2 log: App [server:0] online

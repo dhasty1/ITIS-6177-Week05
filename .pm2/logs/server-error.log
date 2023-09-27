@@ -1,0 +1,98 @@
+Here's the report: 
+
+
+ Error in ./server.js :
+YAMLSyntaxError: All collection items must start at the same column at line 3, column 5:
+
+    summary: Retrieve a customer by {CUST_CODE}.
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^…
+
+YAMLSyntaxError: All collection items must start at the same column at line 6, column 7:
+
+      - in: path
+      ^^^^^^^^^^…
+
+Here's the report: 
+
+
+ Error in ./server.js :
+YAMLSyntaxError: All collection items must start at the same column at line 3, column 5:
+
+    summary: Retrieve a customer by {CUST_CODE}.
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^…
+
+YAMLSyntaxError: All collection items must start at the same column at line 6, column 7:
+
+      - in: path
+      ^^^^^^^^^^…
+
+Here's the report: 
+
+
+ Error in ./server.js :
+YAMLSyntaxError: All collection items must start at the same column at line 3, column 5:
+
+    summary: Retrieve a customer by {CUST_CODE}.
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^…
+
+YAMLSyntaxError: All collection items must start at the same column at line 6, column 7:
+
+      - in: path
+      ^^^^^^^^^^…
+
+Here's the report: 
+
+
+ Error in ./server.js :
+YAMLSyntaxError: All collection items must start at the same column at line 3, column 5:
+
+    summary: Retrieve a customer by {CUST_CODE}.
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^…
+
+YAMLSyntaxError: All collection items must start at the same column at line 6, column 7:
+
+      - in: path
+      ^^^^^^^^^^…
+
+Here's the report: 
+
+
+ Error in ./server.js :
+YAMLSyntaxError: All collection items must start at the same column at line 3, column 5:
+
+    summary: Retrieve a customer by {CUST_CODE}.
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^…
+
+YAMLSyntaxError: All collection items must start at the same column at line 6, column 7:
+
+      - in: path
+      ^^^^^^^^^^…
+
+Here's the report: 
+
+
+ Error in ./server.js :
+YAMLSyntaxError: All collection items must start at the same column at line 3, column 5:
+
+    summary: Retrieve a customer by {CUST_CODE}.
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^…
+
+YAMLSyntaxError: All collection items must start at the same column at line 6, column 7:
+
+      - in: path
+      ^^^^^^^^^^…
+
+Here's the report: 
+
+
+ Error in ./server.js :
+YAMLSyntaxError: All collection items must start at the same column at line 3, column 5:
+
+    summary: Retrieve a customer by {CUST_CODE}.
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^…
+
+YAMLSyntaxError: All collection items must start at the same column at line 6, column 7:
+
+      - in: path
+      ^^^^^^^^^^…
+

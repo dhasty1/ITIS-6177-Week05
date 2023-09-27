@@ -1,0 +1,98 @@
+2023-09-27 02:32:04.296 [info] Log level: Info
+2023-09-27 02:32:04.296 [info] Validating found git in: "git"
+2023-09-27 02:32:04.296 [info] Using git "1.8.3.1" from "git"
+2023-09-27 02:32:04.296 [info] > git rev-parse --show-toplevel [2ms]
+2023-09-27 02:32:04.296 [info] fatal: Not a git repository (or any of the parent directories): .git
+2023-09-27 02:32:04.296 [info] > git rev-parse --show-toplevel [2ms]
+2023-09-27 02:32:04.296 [info] fatal: Not a git repository (or any of the parent directories): .git
+2023-09-27 02:32:04.296 [info] > git rev-parse --show-toplevel [1ms]
+2023-09-27 02:32:04.296 [info] fatal: Not a git repository (or any of the parent directories): .git
+2023-09-27 02:32:04.296 [info] > git rev-parse --show-toplevel [1ms]
+2023-09-27 02:32:04.296 [info] fatal: Not a git repository (or any of the parent directories): .git
+2023-09-27 02:32:04.296 [info] > git rev-parse --show-toplevel [39ms]
+2023-09-27 02:32:04.296 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2023-09-27 02:32:04.296 [info] Open repository: /root/.nvm
+2023-09-27 02:32:04.296 [warning] getRemotes() - ENOENT: no such file or directory, open '/root/.nvm/--git-common-dir/config'
+2023-09-27 02:32:04.296 [info] > git rev-parse --show-toplevel [2ms]
+2023-09-27 02:32:04.296 [info] fatal: Not a git repository (or any of the parent directories): .git
+2023-09-27 02:32:04.296 [info] > git config --get commit.template [10ms]
+2023-09-27 02:32:04.296 [info] > git remote --verbose [18ms]
+2023-09-27 02:32:04.328 [info] > git rev-parse --show-toplevel [36ms]
+2023-09-27 02:32:04.328 [info] fatal: Not a git repository (or any of the parent directories): .git
+2023-09-27 02:32:04.376 [info] > git rev-parse --show-toplevel [1ms]
+2023-09-27 02:32:04.376 [info] fatal: Not a git repository (or any of the parent directories): .git
+2023-09-27 02:32:04.376 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [49ms]
+2023-09-27 02:32:04.449 [info] > git rev-parse --show-toplevel [3ms]
+2023-09-27 02:32:04.449 [info] fatal: Not a git repository (or any of the parent directories): .git
+2023-09-27 02:32:04.482 [info] > git rev-parse --show-toplevel [1ms]
+2023-09-27 02:32:04.482 [info] fatal: Not a git repository (or any of the parent directories): .git
+2023-09-27 02:32:04.978 [info] > git check-ignore -v -z --stdin [16ms]
+2023-09-27 02:32:05.026 [info] > git status -z -uall [608ms]
+2023-09-27 02:32:05.042 [warning] getRemotes() - ENOENT: no such file or directory, open '/root/.nvm/--git-common-dir/config'
+2023-09-27 02:32:05.050 [info] > git config --get commit.template [1ms]
+2023-09-27 02:32:05.051 [info] > git remote --verbose [8ms]
+2023-09-27 02:32:05.059 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [1ms]
+2023-09-27 02:32:05.070 [info] > git status -z -uall [0ms]
+2023-09-27 02:32:06.260 [warning] getRemotes() - ENOENT: no such file or directory, open '/root/.nvm/--git-common-dir/config'
+2023-09-27 02:32:06.269 [info] > git config --get commit.template [0ms]
+2023-09-27 02:32:06.269 [info] > git remote --verbose [9ms]
+2023-09-27 02:32:06.279 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [1ms]
+2023-09-27 02:32:06.289 [info] > git status -z -uall [1ms]
+2023-09-27 02:32:28.300 [info] > git rev-parse --show-toplevel [0ms]
+2023-09-27 02:32:28.300 [info] fatal: Not a git repository (or any of the parent directories): .git
+2023-09-27 02:32:29.910 [info] > git rev-parse --show-toplevel [1ms]
+2023-09-27 02:32:29.910 [info] fatal: Not a git repository (or any of the parent directories): .git
+2023-09-27 02:32:32.718 [info] > git rev-parse --show-toplevel [1ms]
+2023-09-27 02:32:32.718 [info] fatal: Not a git repository (or any of the parent directories): .git
+2023-09-27 05:31:35.826 [info] > git rev-parse --show-toplevel [1ms]
+2023-09-27 05:31:35.827 [info] fatal: Not a git repository (or any of the parent directories): .git
+2023-09-27 05:32:51.670 [info] > git rev-parse --show-toplevel [1ms]
+2023-09-27 05:32:51.670 [info] fatal: Not a git repository (or any of the parent directories): .git
+2023-09-27 05:35:43.158 [info] > git rev-parse --show-toplevel [1ms]
+2023-09-27 05:35:43.172 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2023-09-27 05:35:43.191 [info] Open repository: /root
+2023-09-27 05:35:43.206 [warning] getRemotes() - ENOENT: no such file or directory, open '/root/--git-common-dir/config'
+2023-09-27 05:35:43.221 [info] > git config --get commit.template [1ms]
+2023-09-27 05:35:43.221 [info] > git remote --verbose [15ms]
+2023-09-27 05:35:43.238 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname) refs/heads/master refs/remotes/master [1ms]
+2023-09-27 05:35:43.408 [info] > git status -z -uall [150ms]
+2023-09-27 05:35:44.731 [warning] getRemotes() - ENOENT: no such file or directory, open '/root/--git-common-dir/config'
+2023-09-27 05:35:44.857 [info] > git config --get commit.template [91ms]
+2023-09-27 05:35:44.857 [info] > git remote --verbose [126ms]
+2023-09-27 05:35:44.878 [info] > git check-ignore -v -z --stdin [36ms]
+2023-09-27 05:35:44.880 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname) refs/heads/master refs/remotes/master [4ms]
+2023-09-27 05:35:44.900 [info] > git check-ignore -v -z --stdin [45ms]
+2023-09-27 05:35:45.065 [info] > git status -z -uall [166ms]
+2023-09-27 05:35:46.740 [info] > git show --textconv :db.sql [50ms]
+2023-09-27 05:35:46.741 [info] > git show --textconv :server/server.js [34ms]
+2023-09-27 05:35:46.741 [info] > git ls-files --stage -- /root/server/server.js [3ms]
+2023-09-27 05:35:46.742 [info] > git ls-files --stage -- /root/db.sql [20ms]
+2023-09-27 05:35:47.919 [warning] getRemotes() - ENOENT: no such file or directory, open '/root/--git-common-dir/config'
+2023-09-27 05:35:47.934 [info] > git config --get commit.template [0ms]
+2023-09-27 05:35:47.934 [info] > git remote --verbose [15ms]
+2023-09-27 05:35:47.948 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname) refs/heads/master refs/remotes/master [1ms]
+2023-09-27 05:35:48.048 [info] > git status -z -uall [84ms]
+2023-09-27 05:35:53.197 [warning] getRemotes() - ENOENT: no such file or directory, open '/root/--git-common-dir/config'
+2023-09-27 05:35:53.215 [info] > git config --get commit.template [1ms]
+2023-09-27 05:35:53.215 [info] > git remote --verbose [18ms]
+2023-09-27 05:35:53.228 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname) refs/heads/master refs/remotes/master [1ms]
+2023-09-27 05:35:53.313 [info] > git status -z -uall [69ms]
+2023-09-27 05:35:58.429 [warning] getRemotes() - ENOENT: no such file or directory, open '/root/--git-common-dir/config'
+2023-09-27 05:35:58.442 [info] > git config --get commit.template [1ms]
+2023-09-27 05:35:58.442 [info] > git remote --verbose [13ms]
+2023-09-27 05:35:58.455 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname) refs/heads/master refs/remotes/master [1ms]
+2023-09-27 05:35:58.545 [info] > git status -z -uall [74ms]
+2023-09-27 05:36:01.378 [info] > git ls-files --stage -- /root/server/server.js [1ms]
+2023-09-27 05:36:01.379 [info] > git ls-files --stage -- /root/db.sql [17ms]
+2023-09-27 05:36:01.449 [info] > git show --textconv :server/server.js [14ms]
+2023-09-27 05:36:01.450 [info] > git show --textconv :db.sql [1ms]
+2023-09-27 05:36:03.655 [warning] getRemotes() - ENOENT: no such file or directory, open '/root/--git-common-dir/config'
+2023-09-27 05:36:03.670 [info] > git config --get commit.template [1ms]
+2023-09-27 05:36:03.671 [info] > git remote --verbose [15ms]
+2023-09-27 05:36:03.685 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname) refs/heads/master refs/remotes/master [1ms]
+2023-09-27 05:36:03.773 [info] > git status -z -uall [72ms]
+2023-09-27 05:36:08.940 [warning] getRemotes() - ENOENT: no such file or directory, open '/root/--git-common-dir/config'
+2023-09-27 05:36:08.969 [info] > git config --get commit.template [1ms]
+2023-09-27 05:36:08.970 [info] > git remote --verbose [29ms]
+2023-09-27 05:36:08.999 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname) refs/heads/master refs/remotes/master [1ms]
+2023-09-27 05:36:09.228 [info] > git status -z -uall [198ms]
