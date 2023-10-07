@@ -1,4 +1,5 @@
 const express = require('express');
+const axios = require('axios');
 const cors = require('cors');
 const swaggerJsdoc = require('swagger-jsdoc');
 const swaggerUi = require('swagger-ui-express');
@@ -530,6 +531,18 @@ app.delete('/agents/delete/:AGENT_CODE', deleteValidation, async (req, res) => {
   }
 });
 
+// Express route handling the /say endpoint
+app.get('/say', async (req, res) => {
+  const { keyword } = req.query;
+
+  try {
+      const response = await axios.get(`https://6u8xs7q8gd.execute-api.us-east-2.amazonaws.com/prod/say?keyword=${keyword}`);
+      res.status(response.status).json(response.data);
+  } catch (error) {
+      console.error('Error:', error);
+      res.status(500).json({ error: 'Internal Server Error' });
+  }
+});
 
 app.listen(port, () => {
   console.log('Example app listening at http://localhost:', port);
