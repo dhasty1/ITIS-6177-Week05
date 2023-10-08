@@ -536,7 +536,7 @@ app.get('/say', async (req, res) => {
   const { keyword } = req.query;
 
   try {
-      const response = await axios.get(`https://6u8xs7q8gd.execute-api.us-east-2.amazonaws.com/prod/say?keyword=${keyword}`);
+      const response = await axios.get(`https://aq0hs7b5f1.execute-api.us-east-2.amazonaws.com/prod/say?keyword=${keyword}`);
       res.status(response.status).json(response.data);
   } catch (error) {
       console.error('Error:', error);
