@@ -25,7 +25,7 @@ const options = {
       version: '1.0.0',
       description: 'API testing the use of MariaDB'
     },
-    host: 'localhost:3000',
+    host: '142.93.186.47:3000',
     basePath: '/'
   },
   apis: ['./server.js'], 
